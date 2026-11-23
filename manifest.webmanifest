@@ -1,0 +1,30 @@
+{
+ "name": "Sherwood",
+ "short_name": "Sherwood",
+ "description": "A zen one-thumb game by Nobody Creative.",
+ "start_url": "./",
+ "scope": "./",
+ "id": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#16251b",
+ "theme_color": "#2f5a35",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
