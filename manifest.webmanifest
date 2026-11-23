@@ -1,7 +1,7 @@
 {
  "name": "Sherwood",
  "short_name": "Sherwood",
- "description": "A zen one-thumb game by Nobody Creative.",
+ "description": "Sherwood: a zen one-thumb archery game set in the Robin Hood legend, by Nobody Creative.",
  "start_url": "./",
  "scope": "./",
  "id": "./",
@@ -10,6 +10,11 @@
  "background_color": "#16251b",
  "theme_color": "#2f5a35",
  "icons": [
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  },
   {
    "src": "icon-192.png",
    "sizes": "192x192",
@@ -26,5 +31,8 @@
    "type": "image/png",
    "purpose": "maskable"
   }
+ ],
+ "categories": [
+  "games"
  ]
 }
